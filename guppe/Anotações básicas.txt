@@ -22,3 +22,6 @@ dentro do ambiente virtual, com isso por exemplo quando instalarmos um módulo e
 
 === Easter Egg Python ===
 Digitando python no cmd abrimos o terminal python, e o comando import this vemos um poema
+
+=== Comandos ===
+Tecla ctrl + String ou qualquer outra coisa, nos mostra uma documentação a respeito

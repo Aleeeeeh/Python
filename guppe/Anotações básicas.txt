@@ -5,6 +5,9 @@ C:\Users\User\AppData\Local\Programs\Python\Python37\Scripts
 Nas variáveis de ambiente criar um novo como nome:WORKON.HOME e valor da variável:
 %USERPROFILE%\Envs
 
+Pasta onde é salva os projetos:
+C:\Users\User\PycharmProjects
+
 === Instalando pacotes python ===
 - pip install virtualenv
 - pip install virtualenvwrapper-win

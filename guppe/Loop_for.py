@@ -31,6 +31,14 @@ ENUMERATE, pega uma coleção de valores, e retorna um objeto enumerado, como no
 nome = 'geek'
 ((0, 'g'), (1, 'e'), (2, 'e'), (3, 'k'))
 
+Exemplo utilizando método items (Semelhante ao enumerate)
+dicionario = {'a': 1, 'b':2, 'c':3}
+
+Com items buscamos a chave em si e o valor, com Enumerate pegamos o número do indice e valor
+for chave, valor in dicionario.items():
+    print(f'chave:{chave} e valor:{valor}')
+RESPOSTA: chave: a e valor:1, chave:b e valor:2 etc...
+
 # Exemplo de repetição com range, colocando +1 ele vai até o último valor
 qtd = int(input('Quantas vezes esse loop deve rodar: '))
 soma = 0

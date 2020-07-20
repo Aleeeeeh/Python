@@ -154,6 +154,16 @@ while indice < len(cores):
 for indice, cor in enumerate(cores):
     print(indice, cor)
 
+# Recebendo números inteiros, e tranformando em uma lista
+i = 0
+lista = []
+while i < 6:
+    valor = int(input('Entre com valor: '))
+    lista.append(int(valor))
+    i += 1
+
+print(lista)
+
 
 
 

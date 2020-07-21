@@ -21,7 +21,7 @@ def diz_oi():
 # de documentação padrão
 
 
-def exponcencial(numero, potencia=2):
+def exponencial(numero, potencia=2):
     """
     Função que eleva um número ao quadrado, ou a potência informada
     :param numero:Número que será elevado a potência
